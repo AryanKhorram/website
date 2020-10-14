@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="103c57bc-1320-4667-adb1-cde876234ca5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/left1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/middle2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/numberarias-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/numberarias-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/numberarias-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/right3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mypage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/numbers.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iqkp9L5iGNNRZZJpSx6SPjaQRX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="103c57bc-1320-4667-adb1-cde876234ca5" name="Default Changelist" comment="" />
+      <created>1602642689393</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602642689393</updated>
+      <workItem from="1602642690453" duration="9000" />
+      <workItem from="1602642710565" duration="9000" />
+      <workItem from="1602642728721" duration="13000" />
+      <workItem from="1602642754390" duration="9000" />
+      <workItem from="1602642794648" duration="55000" />
+      <workItem from="1602642858330" duration="16000" />
+      <workItem from="1602642889509" duration="42000" />
+      <workItem from="1602642943613" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="838" y="257" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602642920774">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state x="838" y="257" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.961@0.23.1680.961" timestamp="1602642920774" />
+  </component>
+</project>
